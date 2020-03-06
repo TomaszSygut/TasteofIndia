@@ -1,0 +1,110 @@
+
+Inserted WP Form 5
+Imported Customizer Settings {"astra-settings":{"blog-single-post-structure":["single-title-meta","single-image"],"blog-single-width":"default","blog-single-max-width":1200,"blog-single-meta":["comments","category","author"],"blog-post-structure":["image","title-meta"],"blog-width":"default","blog-max-width":1200,"blog-post-content":"excerpt","blog-meta":["comments","category","author"],"text-color":"#222222","link-color":"#fb2056","theme-color":"#fb2056","link-h-color":"#fb2056","footer-bg-obj":{"background-color":"#191919","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"footer-color":"#d3d3d3","footer-link-color":"#fb2056","footer-link-h-color":"#fb2056","footer-adv-bg-obj":{"background-color":"","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"footer-adv-text-color":"","footer-adv-link-color":"","footer-adv-link-h-color":"","footer-adv-wgt-title-color":"","button-color":"#ffffff","button-h-color":"#ffffff","button-bg-color":"#fb2056","button-bg-h-color":"#fb2056","theme-button-padding":{"desktop":{"top":"10","right":"40","bottom":"10","left":"40"},"tablet":{"top":"","right":"","bottom":"","left":""},"mobile":{"top":"","right":"","bottom":"","left":""},"desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"button-radius":60,"theme-button-border-group-border-size":{"top":"","right":"","bottom":"","left":""},"footer-sml-layout":"footer-sml-layout-1","footer-sml-section-1":"custom","footer-sml-section-1-credit":"123 Fifth Avenue, NY 10160, New York, USA | Phone: 800-123-456 | Email: contact@example.com","footer-sml-section-2":"custom","footer-sml-section-2-credit":"Copyright \u00a9 2018 Outdoor Adventure","footer-sml-dist-equal-align":true,"footer-sml-divider":0,"footer-sml-divider-color":"#7a7a7a","footer-layout-width":"content","ast-header-retina-logo":"https:\/\/websitedemos.net\/outdoor-adventure-01\/wp-content\/uploads\/sites\/354\/2020\/01\/logo@2x.png","ast-header-logo-width":"","ast-header-responsive-logo-width":{"desktop":"120","tablet":"","mobile":"130"},"display-site-title":false,"display-site-tagline":false,"logo-title-inline":false,"disable-primary-nav":false,"header-layouts":"header-main-layout-1","header-main-rt-section":"button","header-display-outside-menu":false,"header-main-rt-section-html":"<button class=\"customBtn\">Take Action<\/button>","header-main-rt-section-button-text":"Take Action","header-main-rt-section-button-link":"#","header-main-rt-section-button-link-option":{"url":"#","new_tab":false,"link_rel":""},"header-main-rt-section-button-style":"custom-button","header-main-rt-section-button-text-color":"","header-main-rt-section-button-back-color":"","header-main-rt-section-button-text-h-color":"","header-main-rt-section-button-back-h-color":"","header-main-rt-section-button-padding":{"desktop":{"top":"8","right":"26","bottom":"8","left":"26"},"tablet":{"top":"","right":"","bottom":"","left":""},"mobile":{"top":"","right":"","bottom":"","left":""},"desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"header-main-rt-section-button-border-size":{"top":"","right":"","bottom":"","left":""},"header-main-sep":0,"header-main-sep-color":"","header-main-layout-width":"content","primary-submenu-border":{"top":"2","right":"0","bottom":"0","left":"0"},"primary-submenu-item-border":false,"primary-submenu-b-color":"","primary-submenu-item-b-color":"","header-main-menu-label":"","header-main-menu-align":"inline","header-main-submenu-container-animation":"fade","mobile-header-breakpoint":"","mobile-header-logo":"","mobile-header-logo-width":"","site-layout":"ast-full-width-layout","site-content-width":1200,"site-layout-outside-bg-obj":{"background-color":"","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"site-content-layout":"boxed-container","single-page-content-layout":"default","single-post-content-layout":"default","archive-post-content-layout":"default","body-font-family":"'Noto Sans', sans-serif","body-font-variant":"400,700","body-font-weight":"400","font-size-body":{"desktop":"16","tablet":"","mobile":"15","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"body-line-height":"1.49","para-margin-bottom":"","body-text-transform":"","headings-font-family":"'Montserrat', sans-serif","headings-font-weight":"700","headings-text-transform":"","headings-line-height":"","font-size-site-title":{"desktop":"22","tablet":"","mobile":"20","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-site-tagline":{"desktop":"15","tablet":"","mobile":"14","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-entry-title":{"desktop":30,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-archive-summary-title":{"desktop":40,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-page-title":{"desktop":"30","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h1":{"desktop":"64","tablet":"44","mobile":"30","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h2":{"desktop":"32","tablet":"","mobile":"24","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h3":{"desktop":"24","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h4":{"desktop":"20","tablet":"","mobile":"19","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h5":{"desktop":"18","tablet":"","mobile":"16","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h6":{"desktop":"15","tablet":"","mobile":"15","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"site-sidebar-layout":"no-sidebar","site-sidebar-width":30,"single-page-sidebar-layout":"default","single-post-sidebar-layout":"default","archive-post-sidebar-layout":"default","footer-adv":"disabled","footer-adv-border-width":"","footer-adv-border-color":"#7a7a7a","mobile-header-toggle-btn-style":"fill","hide-custom-menu-mobile":false,"mobile-header-toggle-target":"icon","transparent-header-logo":"https:\/\/websitedemos.net\/outdoor-adventure-01\/wp-content\/uploads\/sites\/354\/2020\/01\/white-logo.png","transparent-header-retina-logo":"https:\/\/websitedemos.net\/outdoor-adventure-01\/wp-content\/uploads\/sites\/354\/2020\/01\/white-logo@2x.png","different-transparent-logo":true,"different-transparent-retina-logo":true,"transparent-header-logo-width":{"desktop":"120","tablet":"","mobile":""},"transparent-header-enable":false,"transparent-header-disable-archive":true,"transparent-header-disable-latest-posts-index":1,"transparent-header-on-devices":"desktop","transparent-header-main-sep":0,"transparent-header-main-sep-color":"#ffffff","transparent-header-bg-color":"","transparent-header-color-site-title":"","transparent-header-color-h-site-title":"","transparent-menu-bg-color":"","transparent-menu-color":"","transparent-menu-h-color":"","transparent-submenu-bg-color":"","transparent-submenu-color":"","transparent-submenu-h-color":"","transparent-header-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-header-color-site-title-responsive":{"desktop":"#ffffff","tablet":"#ffffff","mobile":""},"transparent-header-color-h-site-title-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-menu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-menu-color-responsive":{"desktop":"#ffffff","tablet":"#fb2056","mobile":"#fb2056"},"transparent-menu-h-color-responsive":{"desktop":"#ffffff","tablet":"#000000","mobile":"#000000"},"transparent-submenu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-submenu-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-submenu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-content-section-text-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-content-section-link-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-content-section-link-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"breadcrumb-font-family":"inherit","breadcrumb-font-weight":"inherit","breadcrumb-text-transform":"","breadcrumb-text-color-responsive":{"desktop":"","tablet":"","mobile":""},"breadcrumb-active-color-responsive":{"desktop":"","tablet":"","mobile":""},"breadcrumb-hover-color-responsive":{"desktop":"","tablet":"","mobile":""},"breadcrumb-separator-color":{"desktop":"","tablet":"","mobile":""},"breadcrumb-bg-color":{"desktop":"","tablet":"","mobile":""},"breadcrumb-spacing":{"desktop":{"top":"","right":"","bottom":"","left":""},"tablet":{"top":"","right":"","bottom":"","left":""},"mobile":{"top":"","right":"","bottom":"","left":""},"desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"h1-color":"","h2-color":"","h3-color":"","h4-color":"","h5-color":"","h6-color":"","font-family-h1":"inherit","font-weight-h1":"inherit","text-transform-h1":"uppercase","line-height-h1":"","font-family-h2":"inherit","font-weight-h2":"inherit","text-transform-h2":"uppercase","line-height-h2":"","font-family-h3":"inherit","font-weight-h3":"inherit","text-transform-h3":"","line-height-h3":"","font-weight-button":"inherit","font-family-button":"inherit","font-size-button":{"desktop":"14","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"text-transform-button":"uppercase","theme-btn-line-height":"1.9","theme-btn-letter-spacing":"","header-main-rt-section-search-box-type":"slide-search","below-header-section-2-search-box-type":"slide-search","below-header-section-1-search-box-type":"slide-search","above-header-section-1-search-box-type":"slide-search","above-header-section-2-search-box-type":"slide-search","astra-addon-auto-version":"2.3.2","theme-auto-version":"2.3.1","headings-font-variant":"","button-v-padding":13,"button-h-padding":38,"mobile-header-toggle-btn-style-color":"","header-main-rt-trans-section-button-text-color":"rgba(255,255,255,0.9)","header-main-rt-trans-section-button-back-color":"rgba(255,255,255,0)","transparent-header-disable-page":false,"header-main-rt-trans-section-button-text-h-color":"#ffffff","header-main-rt-trans-section-button-back-h-color":"#fb2056","header-main-rt-trans-section-button-border-size":{"top":"2","right":"2","bottom":"2","left":"2"},"header-main-rt-trans-section-button-border-color":"rgba(255,255,255,0.9)","header-main-rt-trans-section-button-border-h-color":"#fb2056","header-main-rt-trans-section-button-padding":{"desktop":{"top":"8","right":"22","bottom":"8","left":"22"},"tablet":{"top":"","right":"","bottom":"","left":""},"mobile":{"top":"","right":"","bottom":"","left":""},"desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"transparent-header-disable-index":true,"transparent-header-disable-posts":true,"wc-header-cart-header-colors":false,"shop-quick-view-stick-cart":true,"_astra_pb_compatibility_completed":true,"is_theme_queue_running":false,"submenu-open-below-header":false,"is_addon_queue_running":true,"heading-base-color":"#0a0001","different-retina-logo":true,"is_astra_addon_queue_running":false},"custom-css":""}
+Importing from XML https://websitedemos.net/wp-content/uploads/astra-sites/354/wxr.xml
+Inserted - Term 2 - {"term_id":2,"name":"Setucant","slug":"setucant","term_group":0,"term_taxonomy_id":2,"taxonomy":"category","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 3 - {"term_id":3,"name":"Menu","slug":"menu","term_group":0,"term_taxonomy_id":3,"taxonomy":"nav_menu","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Post 11 - custom_css - astra
+Inserted - Post 12 - page - About
+Inserted - Post 13 - page - Services
+Inserted - Post 14 - page - Projects
+Inserted - Post 15 - page - Contact
+Inserted - Post 16 - nav_menu_item - 
+Inserted - Post 17 - nav_menu_item - 
+Inserted - Post 18 - nav_menu_item - 
+Inserted - Post 19 - nav_menu_item - 
+Inserted - Post 49 - custom_css - astra
+Inserted - Post 62 - attachment - vision
+Inserted - Post 132 - attachment - quote
+Inserted - Post 150 - nav_menu_item - 
+Inserted - Post 151 - attachment - 19-1
+Inserted - Post 195 - attachment - adventure-black-logo@2x-161&#215;40
+Inserted - Post 216 - attachment - project-background
+Inserted - Post 271 - page - Home
+Inserted - Post 272 - attachment - about-bg-2.jpg
+Inserted - Post 273 - attachment - project-background.jpg
+Inserted - Post 274 - attachment - water-sports-03.jpg
+Inserted - Post 275 - attachment - water-sports-04.jpg
+Inserted - Post 276 - attachment - water-sports-01.jpg
+Inserted - Post 277 - attachment - water-sports-02.jpg
+Inserted - Post 278 - attachment - winter-sports-01.jpg
+Inserted - Post 279 - attachment - winter-sports-02.jpg
+Inserted - Post 280 - attachment - winter-sports-03.jpg
+Inserted - Post 281 - attachment - winter-sports-04.jpg
+Inserted - Post 282 - attachment - camp-1.jpg
+Inserted - Post 283 - attachment - camp-2.jpg
+Inserted - Post 284 - attachment - camp-3.jpg
+Inserted - Post 285 - attachment - camp-4.jpg
+Inserted - Post 286 - attachment - services-bg.jpg
+Inserted - Post 287 - attachment - services-1.jpg
+Inserted - Post 288 - attachment - services-2.jpg
+Inserted - Post 289 - attachment - services-3.jpg
+Inserted - Post 290 - attachment - winter-sport.jpg
+Inserted - Post 291 - attachment - about-bg-5.jpg
+Inserted - Post 292 - attachment - mission-2.jpg
+Inserted - Post 293 - attachment - hero-bg.jpg
+Inserted - Post 294 - attachment - quote-1.png
+Inserted - Post 298 - attachment - snow.jpg
+Inserted - Post 299 - attachment - image-1.jpg
+Inserted - Post 300 - attachment - snow-1.jpg
+Inserted - Post 301 - attachment - mountain-3.jpg
+Inserted - Post 338 - attachment - blog-bg-free-img
+Inserted - Post 348 - attachment - blog-6-free-img
+Inserted - Post 353 - attachment - blog-4-free-img
+Inserted - Post 423 - attachment - white-logo@2x
+Inserted - Post 424 - attachment - white-logo
+Inserted - Post 425 - attachment - logo@2x
+Inserted - Post 426 - attachment - logo
+Inserted - Post 433 - attachment - hiking-v1
+Inserted - Post 434 - attachment - walking-v1
+Inserted - Post 435 - attachment - section-bg-img
+Inserted - Post 443 - attachment - outdoor-adventure-yoast-seo
+Imported - Site Options {"woocommerce_product_attributes":[],"woocommerce_product_cat_list":[],"woocommerce_product_cat":[],"custom_logo":"https:\/\/websitedemos.net\/outdoor-adventure-01\/wp-content\/uploads\/sites\/354\/2020\/01\/logo.png","nav_menu_locations":{"primary":"menu"},"show_on_front":"page","page_on_front":"Home","page_for_posts":"","_fl_builder_enabled_icons":["font-awesome-5-regular","font-awesome-5-solid","font-awesome-5-brands","foundation-icons","dashicons","ultimate-icons"],"_fl_builder_enabled_modules":null,"_fl_builder_post_types":null,"_fl_builder_color_presets":["fb2056","f4f5f9","4c5863","1a212b","ffffff","0a0001"],"_fl_builder_services":null,"_fl_builder_settings":{"show_default_heading":"0","default_heading_selector":".fl-post-header","row_margins":"0","row_margins_medium":"","row_margins_responsive":"","row_padding":"20","row_padding_medium":"","row_padding_responsive":"","row_width":"1140","row_width_default":"fixed","row_content_width_default":"fixed","module_margins":"20","module_margins_medium":"","module_margins_responsive":"","responsive_enabled":"1","auto_spacing":"1","medium_breakpoint":"992","responsive_breakpoint":"768","css":"","js":""},"_fl_builder_user_access":null,"_fl_builder_enabled_templates":null,"elementor_container_width":"","elementor_cpt_support":["post","page"],"elementor_css_print_method":"external","elementor_default_generic_fonts":"Sans-serif","elementor_disable_color_schemes":"yes","elementor_disable_typography_schemes":"yes","elementor_editor_break_lines":"","elementor_exclude_user_roles":null,"elementor_global_image_lightbox":"yes","elementor_page_title_selector":"","elementor_scheme_color":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70"},"elementor_scheme_color-picker]":null,"elementor_scheme_typography":{"1":{"font_family":"Roboto","font_weight":"600"},"2":{"font_family":"Roboto Slab","font_weight":"400"},"3":{"font_family":"Roboto","font_weight":"400"},"4":{"font_family":"Roboto","font_weight":"500"}},"elementor_space_between_widgets":"","elementor_stretched_section_container":"","elementor_load_fa4_shim":null,"woocommerce_shop_page_title":"","woocommerce_cart_page_title":"","woocommerce_checkout_page_title":"","woocommerce_myaccount_page_title":"","woocommerce_edit_address_page_title":"","woocommerce_view_order_page_title":"","woocommerce_change_password_page_title":"","woocommerce_logout_page_title":"","woocommerce_enable_guest_checkout":null,"woocommerce_enable_checkout_login_reminder":null,"woocommerce_enable_signup_and_login_from_checkout":null,"woocommerce_enable_myaccount_registration":null,"woocommerce_registration_generate_username":null,"wpforms_settings":{"disable-css":"2","global-assets":false,"gdpr":false},"learndash_settings_theme_ld30":null,"learndash_settings_courses_themes":null}
+Inserted - Post 448 - attachment - logo
+Imported - Widgets {"sidebar-1":{"search-2":{"title":""},"recent-posts-2":{"title":"","number":5},"recent-comments-2":{"title":"","number":5},"archives-2":{"title":"","count":0,"dropdown":0},"categories-2":{"title":"","count":0,"hierarchical":0,"dropdown":0},"meta-2":{"title":""}}}
+Complete 
+Batch Process Started!
+Starter Templates - Importing Images for Blog name 'Taste Of India' (1)
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Page - for Gutenberg ---- "2"
+---- Processing WordPress Posts / Pages - for Beaver Builder ----
+---- Processing WordPress Page - for Beaver Builder ---- "15"
+Source - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2018/12/about-bg-2.jpg
+---- Processing WordPress Page - for Beaver Builder ---- "14"
+Source - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2018/11/project-background.jpg
+Source - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2018/12/winter-sports-01.jpg
+Source - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2018/12/winter-sports-02.jpg
+Source - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2018/12/winter-sports-03.jpg
+Source - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2018/12/water-sports-03.jpg
+Source - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2018/12/water-sports-04.jpg
+Source - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2018/12/water-sports-01.jpg
+Source - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2018/12/camp-1.jpg
+Source - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2018/12/camp-2.jpg
+Source - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2018/12/camp-3.jpg
+---- Processing WordPress Page - for Beaver Builder ---- "13"
+Source - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2018/12/services-bg.jpg
+Source - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2018/12/services-1.jpg
+Source - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2018/12/services-2.jpg
+Source - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2018/12/services-3.jpg
+Source - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2018/12/winter-sport.jpg
+---- Processing WordPress Page - for Beaver Builder ---- "12"
+Source - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2018/12/about-bg-5.jpg
+Source - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2018/12/mission-2.jpg
+---- Processing WordPress Page - for Beaver Builder ---- "271"
+Source - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2018/12/hero-bg.jpg
+Source - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2018/11/quote-1.png
+Source - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2020/01/hiking-v1.jpg
+Source - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2020/01/walking-v1.jpg
+Source - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2020/01/section-bg-img.jpg
+Source - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2018/12/snow.jpg
+Source - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2018/12/image-1.jpg
+Source - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2018/12/snow-1.jpg
+Source - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2018/12/mountain-3.jpg
+---- Processing MISC ----
+Post ID: 150
+Post ID: 16
+Post ID: 17
+Post ID: 18
+Post ID: 19
+Batch Process Complete!
